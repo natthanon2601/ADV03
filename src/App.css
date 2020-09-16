@@ -19,6 +19,7 @@ body {
   background-position: center bottom;
   background-attachment: fixed;
 }
+
 .App-header {
   background-color: #769fcd;
   min-height: 100vh;
@@ -28,6 +29,7 @@ body {
   justify-content: center;
   font-size: calc(10px + 2vmin);
 }
+
 .App-link {
   color: #61dafb;
 }

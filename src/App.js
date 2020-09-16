@@ -5,9 +5,13 @@ import './App.css';
 function App() {
   return (
     <div>
+
       <h1>ADVANCED COMPUTER ENGINEERING LABORATORY I</h1>
+      
       <WordCard value="Hello"/>
+      
       <h1>Natthanon Narit 6135512060 Computer Engineering</h1>
+
     </div>
   );
 }
