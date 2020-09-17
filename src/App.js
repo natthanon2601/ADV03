@@ -4,14 +4,12 @@ import './App.css';
     const word = "Hello";
 function App() {
   return (
-    <div>
-
+    <div className="App">
+    <header className="App-header">
       <h1>ADVANCED COMPUTER ENGINEERING LABORATORY I</h1>
-      
       <WordCard value="Hello"/>
-      
-      <h1>Natthanon Narit 6135512060 Computer Engineering</h1>
-
+      <h2>NATTHANON NARIT COMPUTER ENGINEERING</h2>
+    </header>
     </div>
   );
 }

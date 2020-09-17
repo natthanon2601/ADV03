@@ -10,26 +10,19 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-body {
-  background-color: #d6e6f2;
-  text-align: center;
-  color : #4e89ae;
-  background-image: url("https://steamuserimages-a.akamaihd.net/ugc/922548032612879282/D6BED2D338045E4758A26F31116D940365A7F634/");
-  background-repeat: no-repeat;
-  background-position: center bottom;
-  background-attachment: fixed;
-}
-
 .App-header {
-  background-color: #769fcd;
+  background-color: #d6e6f2;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   font-size: calc(10px + 2vmin);
+  background-image: url("https://steamuserimages-a.akamaihd.net/ugc/922548032612879282/D6BED2D338045E4758A26F31116D940365A7F634/");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-attachment: fixed;
+  color : #4e89ae;
 }
-
 .App-link {
   color: #61dafb;
 }
