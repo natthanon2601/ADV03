@@ -1,10 +1,3 @@
-// import React from 'react';
-// export default function CharacterCard(props) {
-//  return (
-//  <div className = "card" >{props.value}</div>
-// )
-// }
-
 import React, { useState, useEffect, useRef } from 'react';
 export default function CharacterCard(props) {
     const [active, setActive] = useState(false);
